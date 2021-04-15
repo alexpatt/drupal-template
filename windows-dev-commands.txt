@@ -1,0 +1,8 @@
+## This file includes some helpful that will be used to run and use the dev tools that are installed onto the site
+## Note: These are powershell commands and may differ slightly depeneding on the CLI being used
+
+1. Drush command:
+    php .\vendor\drush\drush\drush
+
+2. Composer command:
+    php .\composer.phar
